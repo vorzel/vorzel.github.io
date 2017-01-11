@@ -1,0 +1,16 @@
+body {
+    background-color: #eee;
+    font-family: sans-serif;
+    width: 960px;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
